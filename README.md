@@ -30,11 +30,11 @@ need to share large datasets.
 
 ## Planning
 
-* Initial idea: "short description"
-* Ideation jam board: Add link
+* Initial idea: "To evaluate whether hyperspectral optical classification can be used to characterize states of kelp forest canopies in PACE OCI data along the California coast."
+* Ideation jam board: https://docs.google.com/document/d/1Kx6FJGEp2w1XMeiL8nQI49V98aJvUqvLbATHDY1HyOI/edit?usp=sharing
 * Ideation Presentation: Add link
-* Slack channel: fp25_proj_name
-* Project google drive: Add link
+* Slack channel: proj-kelp-west
+* Project google drive: https://drive.google.com/drive/folders/1WxudYbTDOLmh2qQZroQ3ScTcqr5b9CER?usp=drive_link
 * Final presentation: Add link
 
 ## Background
