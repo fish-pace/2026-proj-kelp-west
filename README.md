@@ -19,10 +19,18 @@
 * Final presentation: Add link
 
 ## Background
+Kelp forests are critical coastal ecosystems that support biodiversity and fisheries, yet their spatial extent and health can change rapidly due to environmental stressors. Monitoring these changes, particularly in the wake of recent marine heatwaves along the west coast, is of particular concern
 
 ## Goals
+* Use in situ algae counts to determine kelp forests and kelp species of interest, then characterize abundances
+* Use PACE data in combination with in situ data to establish thresholds of PACE-derived indices to map kelp signals
+* Use physical driver data (SST/CUTI) to establish relationships between kelp abundance and environmental drivers
 
 ## Datasets
+* PISCO https://search.dataone.org/view/doi:10.6085/AA/PISCO_kelpforest.1.11
+* PACE Level 2 OCI
+* MUR SST
+* CUTI https://mjacox.com/upwelling-indices/
 
 ## Workflow/Roadmap
 ``` mermaid
@@ -40,8 +48,19 @@ flowchart LR
     n2@{ shape: rounded}
 ```
 ## Results/Findings
+* Channel Islands kelp forests have large datasets available
+* Kelp species with taller canopies ( Macrocystis pyrifera) might be easier to detect with PACE than shorter species (Laminaria farlowii) that tend to form an understory
+* QWIP Type III may not be able to capture kelp senescence
+* Normalized difference vegetation Index (NVDI) more promising than Floating Algae Index (FAI) in identifying kelp-specific signals
+* Physical drivers not 1:1 to changes in kelp health, may need a time lag or a more advanced model to accomplish this
 
 ## Lessons Learned
+* Merging datasets across time and space is hard!
+* How to: Python, Jupyter Notebooks, GitHub, and PACE :)
 
 ## References
+Hu, C. (2009). A novel ocean color index to detect floating algae in the global oceans. Remote Sensing of Environment, 113(10), 2118-2129.
+Jacox MG, CA Edwards, EL Hazen, SJ Bograd (2018) Coastal upwelling revisited: Ekman, Bakun, and improved upwelling indices for the U.S. west coast, J. Geophysical Research, 123(10), 7332-7350.
+Jensen, J. R., Estes, J. E., & Tinney, L. (1980). Remote sensing techniques for kelp surveys. Photogrammetric Engineering and Remote Sensing, 46(6), 743-755.
+Muzhoffar DAF, Sakuno Y, Taniguchi N, Hamada K, Shimabukuro H, Hori M. Automatic Detection of Floating Macroalgae via Adaptive Thresholding Using Sentinel-2 Satellite Data with 10 m Spatial Resolution. Remote Sensing. 2023; 15(8):2039. https://doi.org/10.3390/rs15082039
 
