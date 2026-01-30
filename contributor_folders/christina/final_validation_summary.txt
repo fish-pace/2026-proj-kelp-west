@@ -1,0 +1,5 @@
+=== FINAL MERGE VALIDATION ===
+Total Rows with Triple-Match: 0
+CUTI Column Name: date
+
+NO VALID DATA FOUND. Check if sst and cuti columns contain numeric values.
