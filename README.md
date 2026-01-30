@@ -59,8 +59,8 @@ flowchart LR
 * How to: Python, Jupyter Notebooks, GitHub, and PACE :)
 
 ## References
-Hu, C. (2009). A novel ocean color index to detect floating algae in the global oceans. Remote Sensing of Environment, 113(10), 2118-2129.
-Jacox MG, CA Edwards, EL Hazen, SJ Bograd (2018) Coastal upwelling revisited: Ekman, Bakun, and improved upwelling indices for the U.S. west coast, J. Geophysical Research, 123(10), 7332-7350.
-Jensen, J. R., Estes, J. E., & Tinney, L. (1980). Remote sensing techniques for kelp surveys. Photogrammetric Engineering and Remote Sensing, 46(6), 743-755.
+Hu, C. (2009). A novel ocean color index to detect floating algae in the global oceans. Remote Sensing of Environment, 113(10), 2118-2129. <br>
+Jacox MG, CA Edwards, EL Hazen, SJ Bograd (2018) Coastal upwelling revisited: Ekman, Bakun, and improved upwelling indices for the U.S. west coast, J. Geophysical Research, 123(10), 7332-7350. <br>
+Jensen, J. R., Estes, J. E., & Tinney, L. (1980). Remote sensing techniques for kelp surveys. Photogrammetric Engineering and Remote Sensing, 46(6), 743-755. <br>
 Muzhoffar DAF, Sakuno Y, Taniguchi N, Hamada K, Shimabukuro H, Hori M. Automatic Detection of Floating Macroalgae via Adaptive Thresholding Using Sentinel-2 Satellite Data with 10 m Spatial Resolution. Remote Sensing. 2023; 15(8):2039. https://doi.org/10.3390/rs15082039
 
