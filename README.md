@@ -16,7 +16,7 @@
 * Ideation jam board: https://docs.google.com/document/d/1Kx6FJGEp2w1XMeiL8nQI49V98aJvUqvLbATHDY1HyOI/edit?usp=sharing
 * Slack channel: proj-kelp-west
 * Project google drive: https://drive.google.com/drive/folders/1WxudYbTDOLmh2qQZroQ3ScTcqr5b9CER?usp=drive_link
-* Final presentation: Add link
+* Final presentation: https://docs.google.com/presentation/d/1falrdZZlgIh1G9Dgq3fuEBgTjVaZDxcXSz9kWgjWBgI/edit?usp=sharing
 
 ## Background
 Kelp forests are critical coastal ecosystems that support biodiversity and fisheries, yet their spatial extent and health can change rapidly due to environmental stressors. Monitoring these changes, particularly in the wake of recent marine heatwaves along the west coast, is of particular concern
